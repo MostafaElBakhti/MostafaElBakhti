@@ -41,7 +41,6 @@ Check my GitHub activity for the latest commits → [My GitHub](https://github.c
 ---
 
 ## 📫 Connect with Me
-- Email: mostafa@example.com  
 - LinkedIn: [Mostafa El Bakhti](https://www.linkedin.com/in/mostafa-el-bakhti-31b283347/)
 - GitHub: [MostafaElBakhti](https://github.com/MostafaElBakhti)
 
