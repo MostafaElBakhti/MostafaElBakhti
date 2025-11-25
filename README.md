@@ -1,11 +1,7 @@
-# Hi, I'm Mostafa El Bakhti 👋
+# Hey 👋, I'm Mostafa El Bakhti
 
-I am a passionate software developer and student at **1337 (42 Network)** in Morocco.
-
-- 🌱 Currently learning: **C, Backend development, System Programming**
-- 💻 Main skills: **Frontend (HTML, CSS, JS), Python, C, Git, Linux**
-- 🔭 Currently working on: `get_next_line`, `Flask Dashboard`, Frontend projects
-- 🔗 GitHub: [MostafaElBakhti](https://github.com/MostafaElBakhti)
+🚀 **1337 (42 Network) Student | Frontend & Python Developer | Learning C & Backend**  
+💻 Passionate about clean code, algorithms & building real-world apps  
 
 ---
 
@@ -20,33 +16,35 @@ I am a passionate software developer and student at **1337 (42 Network)** in Mor
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🔨 Contribution & Activity
-I regularly commit and contribute to my projects to improve coding skills and maintain high-quality code.  
-Check my GitHub activity for recent updates: [GitHub Profile](https://github.com/MostafaElBakhti)
-
 ---
 
-## 📂 Pinned Projects
+## 🔥 Pinned Projects
 
 ### [get_next_line](https://github.com/MostafaElBakhti/get_next_line)
-- **Description:** C project to read files line by line with proper memory and buffer management.
-- **Tech:** C, Unix system calls
-- **Status:** Completed as part of 1337 piscine
+> 📜 Read files line by line in C with memory management & buffer handling  
+💡 Skills: C, Unix system calls, Algorithms
 
 ### [Flask Dashboard](https://github.com/MostafaElBakhti/flask-dashboard)
-- **Description:** Web dashboard fetching API data, with user authentication and interactive charts.
-- **Tech:** Python, Flask, HTML, CSS, JavaScript
-- **Status:** Personal project / SoliCode practice
+> 📊 Interactive web dashboard fetching API data, login auth  
+💡 Skills: Python, Flask, JS, HTML/CSS, MySQL
 
 ### [Frontend Projects](https://github.com/MostafaElBakhti?tab=repositories)
-- **Description:** Responsive websites and interactive UI using HTML, CSS, JS
-- **Tech:** HTML, CSS, JavaScript
+> 🎨 Responsive websites & UI components  
+💡 Skills: HTML, CSS, JS, Frontend design
 
 ---
 
-## 📈 GitHub Stats
+## ⚡ Contribution & Activity
+I code **daily** 💻 and love pushing updates regularly!  
+Check my GitHub activity for the latest commits → [My GitHub](https://github.com/MostafaElBakhti)
+
+---
+
+## 📫 Connect with Me
+- Email: mostafa@example.com  
+- LinkedIn: [Mostafa El Bakhti](https://www.linkedin.com/in/mostafa-el-bakhti-31b283347/)
+- GitHub: [MostafaElBakhti](https://github.com/MostafaElBakhti)
+
+---
 
 ![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaElBakhti&show_icons=true&theme=radical)
-
----
-
