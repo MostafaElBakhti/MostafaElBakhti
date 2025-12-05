@@ -1,6 +1,6 @@
 # Hey 👋, I'm Mostafa El Bakhti
 
-🚀 **1337 (42 Network) Student | Frontend & Python Developer | Learning C & Backend**  
+🚀 **1337 (42 Network) Student | Frontend Developer | Learning C & python & ai automation**  
 💻 Passionate about clean code, algorithms & building real-world apps  
 
 ---
