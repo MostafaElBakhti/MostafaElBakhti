@@ -1,11 +1,11 @@
-# Hey 👋, I'm Mostafa El Bakhti
+# Hey , I'm Mostafa El Bakhti
 
 🚀 **1337 (42 Network) Student | Frontend Developer | Learning C & python & ai automation**  
 💻 Passionate about clean code, algorithms & building real-world apps  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,26 +21,26 @@
 ## 🔥 Pinned Projects
 
 ### [get_next_line](https://github.com/MostafaElBakhti/get_next_line)
-> 📜 Read files line by line in C with memory management & buffer handling  
+>  Read files line by line in C with memory management & buffer handling  
 💡 Skills: C, Unix system calls, Algorithms
 
 ### [Flask Dashboard](https://github.com/MostafaElBakhti/flask-dashboard)
-> 📊 Interactive web dashboard fetching API data, login auth  
+>  Interactive web dashboard fetching API data, login auth  
 💡 Skills: Python, Flask, JS, HTML/CSS, MySQL
 
 ### [Frontend Projects](https://github.com/MostafaElBakhti?tab=repositories)
-> 🎨 Responsive websites & UI components  
+>  Responsive websites & UI components  
 💡 Skills: HTML, CSS, JS, Frontend design
 
 ---
 
 ## ⚡ Contribution & Activity
-I code **daily** 💻 and love pushing updates regularly!  
+I code **daily**  and love pushing updates regularly!  
 Check my GitHub activity for the latest commits → [My GitHub](https://github.com/MostafaElBakhti)
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 - LinkedIn: [Mostafa El Bakhti](https://www.linkedin.com/in/mostafa-el-bakhti-31b283347/)
 - GitHub: [MostafaElBakhti](https://github.com/MostafaElBakhti)
 
