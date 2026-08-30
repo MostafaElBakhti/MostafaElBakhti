@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>1337 Student | Backend & Frontend Developer | System Programming Specialist | AI Automation Enthusiast</strong>
+  <strong>1337 Student | Software Engineering Student</strong>
 </p>
 
 <p align="center">
